@@ -183,7 +183,7 @@ Starting with Windows 8, a version of the .NET Framework is installed as an oper
 
 Although the .NET Framework and .NET Core target different platforms and represent different approaches to app development and deployment, they both conform to the [.NET Standard 1.3](https://github.com/dotnet/corefx/blob/master/Documentation/architecture/net-platform-standard.md ".NET Standard 1.3"). This means that they offer a high degree of compatibility and identical behavior to one another. In particular:
     
-- Experienced .NET Framework developers can easily adapt to developing with .NET Core when whey want to target different platforms and devices.
+- Experienced .NET Framework developers can easily adapt to developing with .NET Core when they want to target different platforms and devices.
 - .NET Core developers can easily transition to developing apps with the .NET Framework that target Windows desktop, tablet, and phone.
 - Libraries written for the .NET Framework or .NET Core can easily be made to work on the other platform. 
 
